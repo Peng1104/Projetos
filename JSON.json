@@ -1,0 +1,107 @@
+{
+  "portfolio" : {
+    "digital" : {
+      "categoria" : "Projetos de programação",
+      "projetos" : {
+        "aplicativo" : {
+          "ano" : 2019,
+          "descricao" : "Criação de um protótipo de aplicativo feito com um usuário específico em mente.",
+          "equipe" : "Desconhecida",
+          "orientacao" : "Projeto final de Co-design de Aplicativos",
+          "resultado" : "Projeto ainda não finalizado",
+          "titulo" : "Protótipo de aplicativo"
+        },
+        "filecontroller" : {
+          "ano" : 2019,
+          "descricao" : "Biblioteca que controla arquivos do tipo JSON e YAML",
+          "equipe" : "Solo",
+          "orientacao" : "Pessoal",
+          "resultado" : "Converte um dicionario em um arquivo do tipo JSON e YAML ou um arquivo JSON e YAML em um dicionario",
+          "titulo" : "FileController"
+        },
+        "jogo" : {
+          "ano" : 2019,
+          "descricao" : "Criação de um jogo utilizando a ferramenta pygame do Python. Foi feito em trios.",
+          "equipe" : "colega 1 e colega 2",
+          "orientacao" : "Projeto final de Design de Software",
+          "resultado" : "<descrever jogo>",
+          "titulo" : "<nome do jogo>"
+        },
+        "portfolio" : {
+          "ano" : 2019,
+          "descricao" : "Criação de um portfólio contendo projetos elaborados por uma pessoa fictícia. O projeto visava dar aos alunos um melhor entendimento dos conceitos de Arquitetura da Informação.",
+          "equipe" : "colegas 1,2 e 3",
+          "orientacao" : "Projeto de Co-design de Aplicativos",
+          "resultado" : "Um portfólio contendo 11 projetos",
+          "titulo" : "Portfólio"
+        }
+      }
+    },
+    "fisico" : {
+      "categoria" : "Projetos de construção",
+      "projetos" : {
+        "ambulantes" : {
+          "ano" : 2019,
+          "descricao" : "Processo de Design voltado à elaboração de um produto que ajude vendedores ambulantes em seu trabalho",
+          "equipe" : "colegas 1 e 2",
+          "orientacao" : "Projeto final de Natureza do Design",
+          "resultado" : "<descrever solução>",
+          "titulo" : "Protótipo da função crítica do projeto com ambulantes"
+        },
+        "eletrico" : {
+          "ano" : 2019,
+          "descricao" : "Construção de um dispositivo que emprega PWM para controlar um motor",
+          "equipe" : "Desconhecida",
+          "orientacao" : "Projeto final de Acionamentos Elétricos",
+          "resultado" : "Projeto ainda não finalizado",
+          "titulo" : "Dispositivo controlador de motor"
+        },
+        "girafa" : {
+          "ano" : 2019,
+          "descricao" : "Construir uma lâmpada com formato de girafa no FabLab utilizando diversas máquinas para entender seu funcionamento e uso. Os materiais necessários foram madeira tipo MDF, LEDs, uma placa PCB, plástico PLA, e parafusos M5",
+          "equipe" : "colegas 1 e 2",
+          "orientacao" : "Job Rotation de NatDes",
+          "resultado" : "Uma lámpada em formato de girafa",
+          "titulo" : "Girafa Lâmpada"
+        },
+        "meteorologico" : {
+          "ano" : 2019,
+          "descricao" : "Construção de uma estação meteorológica empregando sensores diversos. Os materiais necessários foram madeira tipo MDF, uma placa PCB, um Arduino Uno, um sensor de luminosidade LDR, um sensor de umidade DHT22, um sensor de temperatura LM35, um sensor de pressão BMP180 e um display de cristal líquido",
+          "equipe" : "colegas 1, 2 e 3",
+          "orientacao" : "Projeto final de Instrumentação e Medição",
+          "resultado" : "Uma estação meteorológica que exibia dados de umidade, pressão, luminosidade, altitude e temperatura com suas respectivas incertezas",
+          "titulo" : "Estação Meteorológica"
+        }
+      }
+    },
+    "teorico" : {
+      "categoria" : "Projetos de estudo e apresentação",
+      "projetos" : {
+        "calculo" : {
+          "ano" : 2019,
+          "descricao" : "Elaboração de um estudo autônomo sobre um tópico da matemática, especificamente, cálculo",
+          "equipe" : "Desconhecida",
+          "orientacao" : "Projeto final de Matemática da Variação",
+          "resultado" : "Projeto ainda não finalizado",
+          "titulo" : "Exploração matemática"
+        },
+        "estatistica" : {
+          "ano" : 2019,
+          "descricao" : "Elaboração de um estudo estatístico sobre um assunto real",
+          "equipe" : "Desconhecida",
+          "orientacao" : "Projeto final de Ciência dos Dados",
+          "resultado" : "Projeto ainda não finalizado",
+          "titulo" : "Estudo estatístico"
+        },
+        "modelagem" : {
+          "ano" : 2019,
+          "descricao" : "Elaboração de um modelo que descreve um sistema mecânico, empregando Python, equações diferenciais e física para extrair informações de um diagrama de corpo livre",
+          "equipe" : "colegas 1, 2 e 3",
+          "orientacao" : "Projeto final de Modelagem e Simulação do Mundo Físico",
+          "resultado" : "Modelo validado que contempla o planeta anão Ceres no contexto do nosso sistema solar",
+          "titulo" : "Modelagem e Simulação do sistema solar"
+        }
+      }
+    }
+  }
+}
